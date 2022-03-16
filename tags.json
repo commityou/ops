@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Typescript",
+        "categories": ["skill", "technology"]
+    },
+    {
+        "name": "AWS",
+        "categories": ["skill", "technology"]
+    },
+    {
+        "name": "Javascript",
+        "categories": ["skill", "technology"]
+    },
+    {
+        "name": "React",
+        "categories": ["skill", "technology"]
+    },
+    {
+        "name": "Kubernetes",
+        "categories": ["skill", "technology"]
+    },
+    {
+        "name": "Serverless",
+        "categories": ["skill", "technology"]
+    },
+    {
+        "name": "CDK",
+        "categories": ["skill", "technology"]
+    },
+    {
+        "name": "Backend",
+        "categories": ["skill"]
+    },
+    {
+        "name": "Frontend",
+        "categories": ["skill"]
+    },
+    {
+        "name": "Fullstack",
+        "categories": ["skill"]
+    },
+    {
+        "name": "GCP",
+        "categories": ["skill", "technology"]
+    },
+    {
+        "name": "Python",
+        "categories": ["skill", "technology"]
+    },
+    {
+        "name": "Java",
+        "categories": ["skill", "technology"]
+    },
+    {
+        "name": "PHP",
+        "categories": ["skill", "technology"]
+    }
+]
