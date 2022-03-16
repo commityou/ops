@@ -54,5 +54,13 @@
     {
         "name": "PHP",
         "categories": ["skill", "technology"]
+    },
+    {
+        "name": "Postgres",
+        "categories": ["skill", "technology"]
+    },
+    {
+        "name": "MySQL",
+        "categories": ["skill", "technology"]
     }
 ]
